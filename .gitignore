@@ -1,0 +1,5 @@
+.Rhistory
+cache/
+*~
+*.bz2
+/answer
